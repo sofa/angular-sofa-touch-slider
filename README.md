@@ -1,18 +1,18 @@
-# Angular Sofa Name
+# Angular Sofa Touchslider
 
-Angular name component
+Angular touch slider component
 
 ## Installation
 
 Via npm:
 
 ```sh
-$ npm install angular-sofa-name
+$ npm install angular-sofa-touch-slider
 ```
 
 Via Bower:
 
 ```sh
-$ bower install angular-sofa-name
+$ bower install angular-sofa-touch-slider
 ```
 
