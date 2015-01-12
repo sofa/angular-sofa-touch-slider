@@ -1,5 +1,5 @@
 /**
- * angular-sofa-touch-slider - v0.1.0 - Mon Jan 12 2015 14:45:01 GMT+0100 (CET)
+ * angular-sofa-touch-slider - v0.1.1 - Mon Jan 12 2015 15:03:22 GMT+0100 (CET)
  * http://www.sofa.io
  *
  * Copyright (c) 2014 CouchCommerce GmbH (http://www.couchcommerce.com / http://www.sofa.io) and other contributors
